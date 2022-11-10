@@ -1,0 +1,27 @@
+2013 Yahoo Breach
+
+
+I'm going with this one because I remember getting all the emails warning me about it.
+
+
+The breach affected the entire yahoo user base, or more specifically all of the accounts encrypted with easy to crack security.
+The, still, unknown theives made off with names, birth dates, phone numbers, passwords, security questions, and back up email addresses.
+All of it useful for stealing even more information from other accounts with the same user, or more significantly anyone trying to break
+into government computers. Apparently Yahoo did not initially look into if all accounts were comprimised, previously stating that only 1 billion
+affected out of the companys over 3 billion total. It is theorised that the attack was done as a method of espionage, since a similar breach in 
+2014 was linked to two Russian spies trying to use the info to keep tabs on government officials from more than one government.
+
+It's clearly stated that the breach was due to ineffective encyption and encoding, and when paired with the fact that there are many complacient
+users who use lack luster passwords and answers you have a recipie for disaster. Apparently at the time they were still using the MD5 algorithm
+which has been proven to be vulnerable to brute force attacks.
+
+As for what has been done since, there is multi-factor authentification, more frequent password changes, more complicated requirements for the passwords,
+ and if you are one of those ones who does not use multi-factor, you get to redo all your security info about 3 times a year. 
+ (All of this from personal experience, with both sides.)
+on the back end they invalidated the forged cookies used, so that they cannot be used again, and unencrypted security questions and answers are no longer
+able to access information, and finally they now use bcrypt hashing scheme on the information.
+
+
+ Frankly, no one can get into my accounts anymore without my other email, which will also alert my phone, my phone, and my fingers. Gotta love biometrics.
+ in closing it wasnot just yahoo who instituted these changes either, in the wake of all that ALL sites began cracking down on making sure
+ the accounts were as secure as possible, including making the user more proactive about keeping there info safe.
